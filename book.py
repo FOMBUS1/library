@@ -7,3 +7,4 @@ class Book:
     author: str
     year: int
     status: str
+
